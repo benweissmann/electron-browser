@@ -1,0 +1,7 @@
+{
+  "name": "browser-sample",
+  "description": "Sample Browser",
+  "version": "1.1.0",
+  "author": "Ben Weissmann <ben@benweissmann.com>",
+  "main": "main.js"
+}
